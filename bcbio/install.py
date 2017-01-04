@@ -34,7 +34,7 @@ REMOTES = {
     "cloudbiolinux": "https://github.com/chapmanb/cloudbiolinux/archive/master.tar.gz",
     "genome_resources": "https://raw.github.com/chapmanb/bcbio-nextgen/master/config/genomes/%s-resources.yaml",
     "vcfanno": "https://raw.github.com/chapmanb/bcbio-nextgen/master/config/vcfanno/",
-    "snpeff_dl_url": ("http://downloads.sourceforge.net/project/snpeff/databases/v{snpeff_ver}/"
+    "snpeff_dl_url": ("https://sourceforge.net/projects/snpeff/files/databases/v{snpeff_ver}/"
                       "snpEff_v{snpeff_ver}_{genome}.zip")}
 SUPPORTED_GENOMES = ["GRCh37", "hg19", "hg38", "hg38-noalt", "mm10", "mm9",
                      "rn6", "rn5", "canFam3", "dm3", "galGal4", "phix",
